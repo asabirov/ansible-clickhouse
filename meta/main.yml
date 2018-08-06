@@ -12,7 +12,10 @@ galaxy_info:
         - xenial
         - trusty
         - precise
-        
+    - name: EL
+      versions:
+      - all
+
   galaxy_tags:
     - clickhouse
     - database
